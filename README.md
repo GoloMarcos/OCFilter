@@ -5,7 +5,16 @@
 
 # Citing:
 
-Under Review in LeanDL-HPC 2025
+```latex
+@inproceedings{golo2025one,
+  title={One-Class Lightweight Interpretable Filtering For Academic Profiles and Strategic Themes Affinity},
+  author={G{\^o}lo, Marcos Paulo Silva and Utino, Matheus Yasuo Ribeiro},
+  booktitle={2025 IEEE/SBC 37th International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)},
+  pages={147--154},
+  year={2025},
+  organization={IEEE}
+}
+```
 
 # Abstract 
 
